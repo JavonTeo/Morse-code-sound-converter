@@ -5,5 +5,6 @@ Pre-usage:
 1. install playsound version 1.2.2 via "pip install playsound==1.2.2" (version 1.3 doesnt work)
 2. Ensure all files are downloaded properly and in your required directory
 
-Usage: Simply input your text into the input argument when you run the speech
+Usage: 
+Run the morse.py file, then simply input your text into the input argument when you run the speech
 #### note that this program only accepts alphanumeric characters
